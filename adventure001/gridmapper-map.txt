@@ -1,11 +1,11 @@
 (13,8)w.w6fww.wwf
              w.wwwfwww.dddf
              w5fwwwf
-             w.wwwfwww.dddf
-             w4fwwwf
-             w.wwwfwww.dddf
-             w3fwwwf
+       q wwfwwfqq   w.wwwfwww.dddf  q wwfwwfqq
+       wfsvvv  fwwfww4fffww4fwwffsvvv  wwwf
+       wf  fwwwwfwwwwfffwwwwfwwwwff  wwwf
+       qqqq wwwwfwwwwfqqq   w.w3fdd.wwf  qqqq wwwwfwwwwfqqq
              w.wwwfwww.dddf
              w2fwwwf
              w.wwwfwww.dddf
-             1(27,21,1)
+             1(29,22,0)
