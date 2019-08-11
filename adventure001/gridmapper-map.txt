@@ -35,13 +35,14 @@
              w.wwwfwww.dddf
              1z(1,24)"Level 0"
 
-
-
- w.w1fwwfwwfww.wwf   wfwwwf
- wfffwwwf   wfwwwf
- wfffwwwf  q ffqq
- wffffdvvv.wfwwffsvvv  fwwfwwf
- wffffwwwwfwwwwff  fwwwwfwwwwf
- wfffwwwf  qqqq ffqqq
- wfffwwwf   wfwwwf
- w.wwwfwwwwfwwwwfwww.wwwf   wfwwwf(29,29,2)
+        w www
+        w wwwsssvvvv
+ w.w1fwwfwwfww.wwf   wfwwwf   w.w2fwwpvvvv ww.wwpvvvv
+ wfffwwwf   wfwwwf   wpvvvv pvvvv wwwpvvvv
+ wfffwwwf  q ffqq   wfpvvvv wwwpvvvv
+ wffffdvvv.wfwwffsvvv  fwwfwwfdvvvffwwwf
+ wffffwwwwfwwwwff  fwwwwfwwwwfffwwwf
+ wfffwwwf  qqqq ffqqq   w.w3fddfww.wwf
+ wfffwwwf   w.dvvvvfdd.wwf   wffwwwf
+ w.wwwfwwwwfwwwwfwww.wwwf  w.w4fffww.wwf  w.wwwc wwwwc www.wwwc
+       w.wwwfwwwwfwwwwfwww.wwwf(29,34,2)
