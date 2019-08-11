@@ -1,5 +1,4 @@
-
-   "Level A (The Nest)"
+(3,20)"Level A (The Nest)"
 
 
 
@@ -34,4 +33,15 @@
              w.wwwfwww.dddf
              w2fwwwf
              w.wwwfwww.dddf
-             1(29,20,0)
+             1z(1,24)"Level 0"
+
+
+
+ w.w1fwwfwwfww.wwf   wfwwwf
+ wfffwwwf   wfwwwf
+ wfffwwwf  q ffqq
+ wffffdvvv.wfwwffsvvv  fwwfwwf
+ wffffwwwwfwwwwff  fwwwwfwwwwf
+ wfffwwwf  qqqq ffqqq
+ wfffwwwf   wfwwwf
+ w.wwwfwwwwfwwwwfwww.wwwf   wfwwwf(29,29,2)
