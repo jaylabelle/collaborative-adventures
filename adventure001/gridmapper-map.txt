@@ -1,48 +1,58 @@
-(3,20)"Level A (The Nest)"
-
-
-
-                w.wfww.www ww.wwwss ww.wwf
-                w.wws w  w.ww
-                   w.wwsss
-                   w.wwf
-                   w.ww.ddvf
-                   w.wwf
-              w.wfww.wwf q wwffqq
-              w2ffd.w.wwffsvvv  wwwf
-              w.wwwfwww.wwwf w1f  fww.dd.wwssv ww.wwf
-                 qqqq fwwwwfqqq  w.wwf
-                  w.ww.wwb    w.wvv.wf
-                    nv wwffwwfnnv
-                      3f
-                    aaaav  f aaavz
- "Level 1"
+(2,1)  "Level Above 1 (The Nest)"
 
 
 
 
 
-                w.wwsss
-             w.w6fwwfdv.w.wwfwww.wwwf
-             w.wwwfwww.dddf
-             w5fwwwf
-       q wwfwwfqq   w.wwwfwww.dddf  q wwfwwfqq
-       wfsvvv  fwwfww 4ffwwfwwffsvvv  wwwf
-       wf  8fwwwwfwwwwfffwwwwfwwwwf7f  wwwf
-       qqqq wwwwfwwwwfqqq   w.w3fdd.wwf  qqqq wwwwfwwwwfqqq
-             w.wwwfwww.dddf
-             w2fwwwf
-             w.wwwfwww.dddf
-             1z(1,24)"Level 0"
+                 w.wfww.www ww.wwwss ww.wwf
+                 w.wws w  w.ww
+                    w.wwsss
+                    w.wwf
+                    w.ww.ddvf
+                    w.wwf
+               w.wfww.wwf q wwffqq
+               w2ffd.w.wwffsvvv  wwwf
+               w.wwwfwww.wwwf w1f  fww.dd.wwssv ww.wwf
+                  qqqq fwwwwfqqq  w.wwf
+                   w.ww.wwb    w.wvv.wf
+                     nv wwffwwfnnv
+                       3f
+                     aaaav  f aaavz
+(2,1)"Level 1"
 
-        w www
-        w wwwsssvvvv
- w.w1fwwfwwfww.wwf   wfwwwf   w.w2fwwpvvvv ww.wwpvvvv
- wfffwwwf   wfwwwf   wpvvvv pvvvv wwwpvvvv
- wfffwwwf  q ffqq   wfpvvvv wwwpvvvv
- wffffdvvv.wfwwffsvvv  fwwfwwfdvvvffwwwf
- wffffwwwwfwwwwff  fwwwwfwwwwfffwwwf
- wfffwwwf  qqqq ffqqq   w.w3fddfww.wwf
- wfffwwwf   w.dvvvvfdd.wwf   wffwwwf
- w.wwwfwwwwfwwwwfwww.wwwf  w.w4fffww.wwf  w.wwwc wwwwc www.wwwc
-       w.wwwfwwwwfwwwwfwww.wwwf(29,34,2)
+
+
+
+
+
+
+                 w.wwsss
+              w.w6fwwfdv.w.wwfwww.wwwf
+              w.wwwfwww.dddf
+              w5fwwwf
+        q wwfwwfqq   w.wwwfwww.dddf  q wwfwwfqq
+        wfsvvv  fwwfww 4ffwwfwwffsvvv  wwwf
+        wf  8fwwwwfwwwwfffwwwwfwwwwf7f  wwwf
+        qqqq wwwwfwwwwfqqq   w.w3fdd.wwf  qqqq wwwwfwwwwfqqq
+              w.wwwfwww.dddf
+              w2fwwwf
+              w.wwwfwww.dddfz
+(2,1)"Level 2"
+
+
+
+
+
+
+
+         w www
+         w wwwsssvvvv
+  w.w1fwwfwwfww.wwf   wfwwwf   w.w2fwwpvvvv ww.wwpvvvv
+  wfffwwwf   wfwwwf   wpvvvv pvvvv wwwpvvvv
+  wfffwwwf  q ffqq   wfpvvvv wwwpvvvv
+  wffffdvvv.wfwwffsvvv  fwwfwwfdvvvffwwwf
+  wffffwwwwfwwwwff  fwwwwfwwwwfffwwwf
+  wfffwwwf  qqqq ffqqq   w.w3fddfww.wwf
+  wfffwwwf   w.dvvvvfdd.wwf   wffwwwf
+  w.wwwfwwwwfwwwwfwww.wwwf  w.w4fffww.wwf  w.wwwc wwwwc www.wwwc
+        w.wwwfwwwwfwwwwfwww.wwwf(29,34,2)
