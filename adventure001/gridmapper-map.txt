@@ -1,5 +1,4 @@
-
-    "Level Above 1 (The Nest)"
+(4,23)"Level Above 1 (The Nest)"
 
 
 
@@ -60,6 +59,35 @@
         w.wwwfwwwwfwwwwfwww.wwwfz
   "Level 3"
 
-                     nv wwfnnv
-                    ww.wwwfwvvfqqtvv wwwf
-                     nnnnv wwwwfnnnv(22,4,1)
+                     nv ww1fnnv
+                  nv ww.wwwfww.wwwfwvvfqqtvv wwwf
+                 nv nnnv   nnnnv wwwwfnnnv
+                nv nnnv
+         qv   qqv   nv nnnv
+              nv nnnv
+           wffwwqqfnnnv
+           qqqq ffqq
+            qqqq ffwwf  qqvv
+               f
+             qqqqv  f           nv ww.wwf
+             q fffffwwfnnv      nv fwwwf
+            q 2fffffffwwwf    q 3fffqq
+            wfffffE fE fffqq    wffffwwwf
+            wfvv ffffE fE ffffww.wwwfww.wwwfww.wwwfffffqqq
+            wfvv ffffffffqqq    w.wwwfffwwwf
+            qqqq fffffffwwwf     w.wwwfwwwwfnnnv
+             qqqq wwwwffffwwwwfvv wwwwfvv qqq
+               nnnnv fnnnv
+                w.wwf
+               nv fnnv
+              nv 4fffnnv
+              wffffwwwf
+              wpvv fffwwwpvv
+              wffffwwwf
+              wpvv fffwwwpvv
+              wffffwwwf
+              wpvv fffwwwpvv
+              nnnnv fffnnnv
+               nnnnv wwwwpvvv nnnv(29,27,3)
+
+   
