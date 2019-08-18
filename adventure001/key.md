@@ -44,6 +44,6 @@ Level 3 / Xvart Lair
 -------------------------------------------------------------
 
 1. 30′ octagon **Jail Cell** Anyone who falls down the shoot from The Nest room 4 lands here. The spring-loaded door and steep ramp make climbing _up_ the shoot difficult. Numerous hash marks from former prisoners scar the walls.
-2. Cavernous main room: has a large fire in the middle.  There is a hole in the ceiling above the fire about 0.5m in diameter that leads up into the darkness.  There are yogurt pools along the south and west walls.
-3. Xvart Laboratory:  There is a **Xvart Shaman** in here, doing research on potions, cheeses, and powders made from sentient yak milk, fungus/ores, and other, more pedestrian potion ingredients.  The shaman has a staff topped with the horn of a yak and a helmet made out of a yak skull.
-4. Yak pens:  There is a large oval-shaped room leading from the main room with multiple yak pens in it.  There are yaks in some of the pens.  At the far south end of the room, there is a pen with a Yak calf in it.  There are two guards guarding this pen. 
+2. **Cavernous main room**: has a large fire in the middle.  There is a hole in the ceiling above the fire about 0.5m in diameter that leads up into the darkness.  There are yogurt pools along the south and west walls.
+3. **Xvart Laboratory**:  There is a **Xvart Shaman** in here, doing research on potions, cheeses, and powders made from sentient yak milk, fungus/ores, and other, more pedestrian potion ingredients.  The shaman has a staff topped with the horn of a yak and a helmet made out of a yak skull.
+4. **Yak pens**:  There is a large oval-shaped room leading from the main room with multiple yak pens in it.  There are yaks in some of the pens.  At the far south end of the room, there is a pen with a Yak calf in it.  There are two guards guarding this pen. 
