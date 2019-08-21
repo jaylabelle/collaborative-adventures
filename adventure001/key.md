@@ -45,6 +45,7 @@ Level 2: Mine Vestibule Level
 1. 40×80′ **Equipment Storage Room** Contains mining equipment, (pickaxes, carts, shovels, helmets, torches, some assorted pieces of kobold clothing in bad condition.)  It also contains a ................
 2. 30×50′ **Ore/rock/material Storage Room** Contains piles of various raw, indiscernible substances.  Locked door on the south end.  The lock is sturdy.
 3. 30×30′ **Counting/valuables room** Contains 3 treasure chests on near the south wall.  There are two desks, one with small piles of indiscernible ores, like the ones in the ore storage room on it.  The other desk has nothing on top.  Both desks have drawers.
+The middle treasure chest contains a potion of climbing, a healing potion, a bag of irritating dust that resembles one of the ores in the other room, a small onyx yak figurine, and a brass horn that makes the very sick goose noise. 
 4. 40×20′ **Guard room** There is a locked door on the northern wall next to a barred window leading into the landing area.  There is a small shelf/table under the window.  There are two chairs near the south wall.  There are some more pieces of kobold clothing here.
 5. 40×40′ **Stairs Landing Area** There is a 20′ wide ramp leading down into the relative darkness to the north.
 
@@ -52,7 +53,15 @@ Level 2: Mine Vestibule Level
 Level 3: Xvart Lair
 -------------------------------------------------------------
 
-1. 30′ octagon **Jail Cell** Anyone who falls down the shoot from The Nest room 4 lands here. The spring-loaded door and steep ramp make climbing _up_ the shoot difficult. Numerous hash marks from former prisoners scar the walls.
-2. Cavernous main room: has a large fire in the middle.  There is a hole in the ceiling above the fire about 0.5m in diameter that leads up into the darkness.  There are yogurt pools along the south and west walls.
-3. Xvart Laboratory:  There is a **Xvart Shaman** in here, doing research on potions, cheeses, and powders made from sentient yak milk, fungus/ores, and other, more pedestrian potion ingredients.  The shaman has a staff topped with the horn of a yak and a helmet made out of a yak skull.
-4. Yak pens:  There is a large oval-shaped room leading from the main room with multiple yak pens in it.  There are yaks in some of the pens.  At the far south end of the room, there is a pen with a Yak calf in it.  There are two guards guarding this pen.
+Notes on Xvart: AC 7, 1-1 hit dice, 1 attack, average intelligence, chaotic evil alignment, standard magic resistance, normal/lieutenant Xvart are level 1, give 5XP + 1 per hit point. Leader Xvart are lvl 1, give 20 XP + 2 per hit point. This is according to the fiend folio. Not sure how to morph this into LOTFP.
+
+1. 30′ octagon **Jail Cell** Anyone who falls down the shoot from The Nest room 4 lands here. 
+The spring-loaded door and steep ramp make climbing _up_ the shoot difficult. 
+Numerous hash marks from former prisoners scar the walls.
+2. **Cavernous main room**: has a large fire in the middle.  There is a hole in the ceiling above the fire about 0.5m in diameter that leads up into the darkness.  
+There are yogurt pools along the south and west walls.  
+There is a **Xvart Lieutenant** here, (8HP).
+3. **Xvart Laboratory**:  There is a **Xvart Shaman** (6HP) in here, doing research on potions, cheeses, and powders made from sentient yak milk, fungus/ores, and other, more pedestrian potion ingredients.
+The shaman has a staff topped with the horn of a yak (worth 600sp, can cast "Speak with Animals", has a built in compass whose needle is a piece of shimmering blue ore) and a helmet made out of a yak skull (worth 60sp, has two spherical pieces of shimmering blue ore in the eye sockets).
+4. **Yak pens**:  There is a large oval-shaped room leading from the main room with multiple yak pens in it.  There are yaks in some of the pens.  At the far south end of the room, there is a pen with a Yak calf in it.  
+There are two Xvart guarding this pen. One guard is a **Xvart Lieutenant** (8HP), the other is the **Xvart Leader** (11HP).
