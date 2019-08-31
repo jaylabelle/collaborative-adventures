@@ -1,5 +1,4 @@
-
-    "Level Above 1 (The Nest)"
+(4,2)"Level Above 1 (The Nest)"
 
 
 
@@ -58,35 +57,35 @@
   wfffwwwf   w.dvvvvfdd.wwf   wffwwwf
   w.wwwfwwwwfwwwwfwww.wwwf  w.w4fffww.wwf  w.wwwc wwwwc www.wwwc
         w.wwwfwwwwfwwwwfwww.wwwfz
-  "Level 3"
-
-                     nv ww1fnnv
-                  nv ww.wwwfww.wwwfwvvfqqtvv wwwf
-                 nv nnnv   nnnnv wwwwfnnnv
-                nv nnnv
-         qv   qqv   nv nnnv
-              nv nnnv
-           wffwwqqfnnnv
-           qqqq ffqq
-            qqqq ffwwf  qqvv
-               f
-             qqqqv  f           nv ww.wwf
-             q fffffwwfnnv      nv fwwwf
-            q 2fffffffwwwf    q 3fffqq
-            wfffffE fE fffqq    wffffwwwf
-            wfvv ffffE fE ffffww.wwwfww.wwwfww.wwwfffffqqq
-            wfvv ffffffffqqq    w.wwwfffwwwf
-            qqqq fffffffwwwf     w.wwwfwwwwfnnnv
-             qqqq wwwwffffwwwwfvv wwwwfvv qqq
-               nnnnv fnnnv
-                w.wwf
-               nv fnnv
-              nv 4fffnnv
-              wffffwwwf
-              wpvv fffwwwpvv
-              wffffwwwf
-              wpvv fffwwwpvv
-              wffffwwwf
-              wpvv fffwwwpvv
-              nnnnv fffnnnv
-               nnnnv wwwwpvvv nnnv(29,27,3)
+  "Level 3"                   nv ww.ww.ww5f
+                    nv nnnv
+              nv wwfnnv   nv nnnv nv ww1fnnv
+              wf6fwwwvvfww.wwwfww"T"fwwwwfww.wwwfwvvfqqtvv wwwf
+    ddddvvf         nnnnv wwwwfnnnv nv ddnnnv   nnnnv wwwwfnnnv
+    ws w           nv nnnv
+    w.ww     qv   qqv   nv nnnv
+ w.wccv wwc wwssssv fwwfqq        nv nnnv
+ wffssssv fffqq  svvvv  wffwwqqfnnnv
+ wsv sv ff7fffqq   qqqq f"A"fqq
+ wfffffffnvvvv wwfqq  qqqq ffwwf  qqvv
+ qqqq fffqqq qqqq qqq wffwwwf    f
+  qqqq ddddfqqq   q ffqqq   qqqqv  f           nv ww.wwf
+ q ww.wwwfqqq  q qq qqqq fqqq    q fffffwwfnnv      nv fwwwf
+ w.wwf  q qqq wwwqqqq www wwwf   q 2fffffffwwwf    q 3fffqq
+ w.wwf  w.wwf q ww.wwwfwwwwfqq q qq wffff"🔥"f"🔥"ffffqq    wffffwwwf
+q wwwwfqq  w.wwtv  w.wwf  wfwwwwfwfwfvv fff"🔥"f"🔥"fffffww.wwwfww.wwwfww.wwwfffffqqq
+w.wwf qqqq ww.wwwfqqq  w.wwf  w.wwf wfwfvv ffffffffqqq    w.wwwfffwwwf
+w.wwf q fqq  w.wwf  w.wwfwwqqqq qqq qqqq fffffffwwwf     w.wwwfwwwwfnnnv
+w.wwfq fffwwfwwwwfqq  w.wwfq qq q wwwwfwwwwffffwwwwfvv wwwwfvv qqq
+w.wwfqqqq ffqqq w.wwf qqqq qq qqqq qqq wfqqq   nnnnv fnnnv
+w.wwf qqqq qqq  w.wwfq wwfwwwf q qqq q wwfqq  w.wwf
+w.wwfq qq   w.wwfqqqq wwwwfqqq w.w.wwbv fww.wwwfffqqq nv fnnv
+qqqq ffqq  qqqq ww.wwwfwwwwfqq  w.wwf qqqq qqq nv 4fffnnv
+ qqqq fwwwf q fdv8fw.wwf w.wwf   wffffwwwf
+  wfwwwf qqqq ww.wwwfww.wwwfqqq q wwwwfqq   w.w.wwffffww.wwf
+ q ffqq    q qqq  w.wwf  w.wwwffffww.wwf
+q f"🍄"fffqq   w.wwf  qqqq ww.wwwfqq w.wwwffffww.wwf
+wffffffwwfwwffqq   q fw.wwwffffww.wwf
+qqqq "🍄"fffff"🍄"ffwwwwfqqq  q fqqq wffffww.wwf
+ qqqq wwwwff"🍄"fffqqq   q 9fwwwf nnnnv fffnnnv
+   qqqq wwwwfwwwwfqqq    qqqq wwwwfqqq   nnnnv wwwwpvvv nnnv(11,31,3)
