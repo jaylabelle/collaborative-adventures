@@ -65,8 +65,8 @@ There is a **Xvart Lieutenant** here, (8HP).
 The shaman has a staff topped with the horn of a yak (worth 600sp, can cast "Speak with Animals", has a built in compass whose needle is a piece of shimmering blue ore) and a helmet made out of a yak skull (worth 60sp, has two spherical pieces of shimmering blue ore in the eye sockets).
 4. **Yak pens**:  There is a large oval-shaped room leading from the main room with multiple yak pens in it.  There are yaks in some of the pens.  At the far south end of the room, there is a pen with a Yak calf in it. Two Xvarts guarding this pen. One guard is a **Xvart Lieutenant** (8HP), the other is the **Xvart Leader** (11HP).
 5. **Cheese Wheel Trap.**
- An 8′ wheel of cheese stands on its end here, at the crest of the corridor that slopes south-west.
- The cheese careens perilously down the hallway, crushing (save) anyone who opens the **trapped door** in the intersection before disarming the trap using the **lever at A**.
+ An 8′ wheel of crumbly orangish stone stands on its end here, at the crest of the corridor that slopes south-west.  There is a faint metallic odor, combined with a dusty smell and a smell of burning plastic.
+ The ancient cheese artifact careens perilously down the hallway, crushing (save) anyone who opens the **trapped door** in the intersection before disarming the trap using the **lever at A**.
 6. **Yak Princess Jail.**
  The xvarts hold the **yak princess** hostage in this jail cell.
 7. **Boudoir of the Rat Queen.**
