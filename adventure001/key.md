@@ -122,7 +122,7 @@ Level 3: Xovlin Lair
  A **xovlin Lieutenant** (8HP) half-dozed by the fire.
  A hole in the ceiling above the fire about 0.5m in diameter snakes up into the darkness.
  Pools along the south and west walls hold thick yogurt.
-3. **xovlin Laboratory**
+3. **Xovlin Laboratory**
  An **xovlin Shaman** (6HP) researches potions, cheeses, and powders made from psyak milk, fungus/ores, and other, more pedestrian potion ingredients.
  The shaman has a **staff** topped with the horn of a psyak (worth 600sp, can cast _Speak with Animals_, has a built in compass whose needle is a piece of shimmering blue ore) and a **helmet** made out of a psyak skull (worth 60sp, has two spherical pieces of shimmering blue ore in the eye sockets).
  A number of **experimental cheese samples** made from the milk of various mammals rest in a small cabinet; see the Cheese Samples section.
@@ -132,10 +132,11 @@ Level 3: Xovlin Lair
  A pen at the far south end of the room holds a psyak calf.
  Two xovlins guard it: a **xovlin Lieutenant** (8HP) and the **xovlin Leader** (11HP).
 5. **Cheese Wheel Trap.**
+ An 8′ wheel of crumbly orangish stone stands on its end here, at the crest of the corridor that slopes south-west.
+ There is a faint metallic odor, combined with a dusty smell and a smell of burning plastic.
+ The ancient cheese artifact careens perilously down the hallway, crushing (save) anyone who opens the **trapped door** in the intersection before disarming the trap using the **lever at A**.
 6. **Psyak Princess Jail.**
  The xovlins hold the **psyak princess** hostage in this jail cell.
- The ancient cheese artifact careens perilously down the hallway, crushing (save) anyone who opens the **trapped door** in the intersection before disarming the trap using the **lever at A**.
- An 8′ wheel of crumbly orangish stone stands on its end here, at the crest of the corridor that slopes south-west.  There is a faint metallic odor, combined with a dusty smell and a smell of burning plastic.
 7. **Boudoir of the Rat Queen.**
  The **wererat** lounges on a gilt, velvet-cushioned recamier.
  Normal and giant rats frequent the room, reporting to their queen.
